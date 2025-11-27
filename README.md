@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Zidan
 
-<!--
-**AhmedZidan399/AhmedZidan399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Junior Full Stack JavaScript Developer  
+Passionate about building scalable backends, modern frontends, and clean, maintainable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌐 Full Stack Developer (MERN + NestJS)
+- ⚡ I build RESTful APIs, scalable backend systems, and dynamic, responsive UIs
+- 🧠 Always learning more about Angular, Next.js, and cloud deployments
+- 💡 Love solving real-world problems with clean architecture and best practices
+- 🎯 Goal: Become a highly skilled full-stack engineer
+
+---
+
+## 🔧 Tech Stack
+
+### **Frontend**
+React · Next.js · Angular · JavaScript (ES6+) · TypeScript · HTML · CSS · Bootstrap · Tailwind
+
+### **Backend**
+Node.js · Express.js · NestJS · REST APIs
+
+### **Databases**
+MongoDB · SQL
+
+### **Tools**
+Git · GitHub · Postman · VS Code · NPM
+
+---
+
+## 📌 Featured Projects
+- **E-Commerce Web App (Angular)** — Full cart system, auth, API integration  
+- **Car Deals Mobile App (Flutter)** — Graduation project (Excellent grade)  
+- **MERN CRUD System** — Authentication, dashboard, API design  
+- **More on my repos…** 👇
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed1zidan  
+- 📧 Email: ahmed.zidan.new10@gmail.com
+
+---
+
+✨ *Thanks for visiting my profile!*

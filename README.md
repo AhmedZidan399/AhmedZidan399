@@ -31,9 +31,9 @@ Git · GitHub · Postman · VS Code · NPM
 ---
 
 ## 📌 Featured Projects
-- **E-Commerce Web App (Angular)** — Full cart system, auth, API integration  
-- **Car Deals Mobile App (Flutter)** — Graduation project (Excellent grade)  
-- **MERN CRUD System** — Authentication, dashboard, API design  
+- **E-Commerce Web App (Angular)** — Full cart system, auth, API integration
+<!--- **Car Deals Mobile App (Flutter)** — Graduation project (Excellent grade)  
+- **MERN CRUD System** — Authentication, dashboard, API design  -->
 - **More on my repos…** 👇
 
 ---

@@ -23,7 +23,7 @@ React · Next.js · Angular · JavaScript (ES6+) · TypeScript · HTML · CSS ·
 Node.js · Express.js · NestJS · REST APIs
 
 ### **Databases**
-MongoDB · SQL
+MongoDB
 
 ### **Tools**
 Git · GitHub · Postman · VS Code · NPM
@@ -48,6 +48,7 @@ Git · GitHub · Postman · VS Code · NPM
 
 ## 📫 Connect With Me
 - 📧 Email: ahmed.zidan.new10@gmail.com
+- :) Portfolio: https://profile-page-nine-olive.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/ahmed1zidan  
 - 💻 LeetCode: https://leetcode.com/u/AhmedZidan10
 

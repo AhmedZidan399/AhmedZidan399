@@ -49,7 +49,7 @@ Git · GitHub · Postman · VS Code · NPM
 ## 📫 Connect With Me
 - 📧 Email: ahmed.zidan.new10@gmail.com
 - :) Portfolio: https://profile-page-nine-olive.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed1zidan  
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmedzidan399  
 - 💻 LeetCode: https://leetcode.com/u/AhmedZidan10
 
 ---
